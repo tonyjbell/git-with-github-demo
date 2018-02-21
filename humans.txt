@@ -1,8 +1,10 @@
+
 # humanstxt.org/
 # The humans responsible & technology colophon
 # this is a demo of git pull command
 # this is a mac demo..2
 # SSH Communication based on password
+# SSH 2
 # TEAM
 #some change ---now
 # diff change test
